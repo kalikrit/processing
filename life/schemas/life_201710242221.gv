@@ -1,0 +1,85 @@
+digraph {
+"094b67d4" [label="Lyudmila 18.2"]
+"754e284e" [label="Leonid 18.2"]
+"cab37b01" [label="Viktoria"]
+"094b67d4" -> "cab37b01"
+"754e284e" -> "cab37b01"
+
+"23aacc3b" [label="Olesya 18.2"]
+"946cc48f" [label="Vasily 18.2"]
+"3bcb1d62" [label="Stepan"]
+"23aacc3b" -> "3bcb1d62"
+"946cc48f" -> "3bcb1d62"
+
+"de683402" [label="Varvara 18.2"]
+"a26c0293" [label="Gleb 18.2"]
+"db4f6030" [label="Ruslan"]
+"de683402" -> "db4f6030"
+"a26c0293" -> "db4f6030"
+
+"172ff747" [label="Viktoria 18.4"]
+"a824d6b7" [label="Timofey 18.3"]
+"663ec919" [label="Margarita"]
+"172ff747" -> "663ec919"
+"a824d6b7" -> "663ec919"
+
+"094b67d4" [label="Lyudmila 19.2"]
+"754e284e" [label="Leonid 19.2"]
+"25ee560e" [label="Valeria"]
+"094b67d4" -> "25ee560e"
+"754e284e" -> "25ee560e"
+
+"23aacc3b" [label="Olesya 19.2"]
+"946cc48f" [label="Vasily 19.2"]
+"63cdea0f" [label="Svetlana"]
+"23aacc3b" -> "63cdea0f"
+"946cc48f" -> "63cdea0f"
+
+"de683402" [label="Varvara 19.2"]
+"a26c0293" [label="Gleb 19.2"]
+"b8682884" [label="Aleksey"]
+"de683402" -> "b8682884"
+"a26c0293" -> "b8682884"
+
+"de683402" [label="Varvara 20.2"]
+"a26c0293" [label="Gleb 20.2"]
+"0c06baa7" [label="Valeria"]
+"de683402" -> "0c06baa7"
+"a26c0293" -> "0c06baa7"
+
+"b696daab" [label="Evgenia 20.4"]
+"b6d2fd8c" [label="Kirill 20.2"]
+"0a27f518" [label="Alisa"]
+"b696daab" -> "0a27f518"
+"b6d2fd8c" -> "0a27f518"
+
+"e1a0f531" [label="Viktoria 39.7"]
+"b8682884" [label="Aleksey 20.5"]
+"e915b444" [label="Polina"]
+"e1a0f531" -> "e915b444"
+"b8682884" -> "e915b444"
+
+"663ec919" [label="Margarita 21.5"]
+"ec2e0fbd" [label="Tihon 40.0"]
+"e32d5fd2" [label="Darya"]
+"663ec919" -> "e32d5fd2"
+"ec2e0fbd" -> "e32d5fd2"
+
+"663ec919" [label="Margarita 22.5"]
+"ec2e0fbd" [label="Tihon 41.0"]
+"f72c21c8" [label="Yakov"]
+"663ec919" -> "f72c21c8"
+"ec2e0fbd" -> "f72c21c8"
+
+"51aa94b4" [label="Zhanna 56.2"]
+"754e284e" [label="Leonid 56.0"]
+"6a1db1f9" [label="Yevgeny"]
+"51aa94b4" -> "6a1db1f9"
+"754e284e" -> "6a1db1f9"
+
+"51aa94b4" [label="Zhanna 57.2"]
+"754e284e" [label="Leonid 57.0"]
+"5d666c45" [label="Oleg"]
+"51aa94b4" -> "5d666c45"
+"754e284e" -> "5d666c45"
+}

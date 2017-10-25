@@ -1,0 +1,619 @@
+digraph {
+"4f6e8e63-78ff-4d53-a343-e58628e3d7c4" [label="Ksenia 18.2"]
+"eb8c233a-79a1-43bb-b7bf-c867e3fcd879" [label="Georgy 18.2"]
+"789e3ce4-fd92-42e3-9db1-a9951ff1ddcd" [label="Angelina"]
+"4f6e8e63-78ff-4d53-a343-e58628e3d7c4" -> "789e3ce4-fd92-42e3-9db1-a9951ff1ddcd"
+"eb8c233a-79a1-43bb-b7bf-c867e3fcd879" -> "789e3ce4-fd92-42e3-9db1-a9951ff1ddcd"
+
+"e07c09eb-43c8-43db-9093-37c46f18b4b2" [label="Zoya 18.2"]
+"2a0d0748-3774-4485-8b72-95bde6fcadb9" [label="Vasily 18.1"]
+"517d2d7b-ddf9-48ac-b221-77a8a27c4cf4" [label="Semyon"]
+"e07c09eb-43c8-43db-9093-37c46f18b4b2" -> "517d2d7b-ddf9-48ac-b221-77a8a27c4cf4"
+"2a0d0748-3774-4485-8b72-95bde6fcadb9" -> "517d2d7b-ddf9-48ac-b221-77a8a27c4cf4"
+
+"82c2f332-a8e0-4d13-ac36-af84fbfa8b6d" [label="Elena 18.2"]
+"7c762440-1351-437a-9cfa-7c6dc63dd278" [label="Viktor 18.2"]
+"ee51bc44-2172-4c37-8719-204c14a85760" [label="Irina"]
+"82c2f332-a8e0-4d13-ac36-af84fbfa8b6d" -> "ee51bc44-2172-4c37-8719-204c14a85760"
+"7c762440-1351-437a-9cfa-7c6dc63dd278" -> "ee51bc44-2172-4c37-8719-204c14a85760"
+
+"a6d3add0-8815-4d33-ace6-61951e9628b2" [label="Viktoria 18.2"]
+"53ccbcc0-f671-42bd-8e85-7af80c067bb0" [label="Timur 18.1"]
+"619b098e-f846-4c7c-b884-3080efc60491" [label="Zhanna"]
+"a6d3add0-8815-4d33-ace6-61951e9628b2" -> "619b098e-f846-4c7c-b884-3080efc60491"
+"53ccbcc0-f671-42bd-8e85-7af80c067bb0" -> "619b098e-f846-4c7c-b884-3080efc60491"
+
+"3d7dcbbf-ec57-4813-936e-62eaeac53f4c" [label="Lyubov 18.2"]
+"5bc6f525-854b-409b-a1c1-99121e155445" [label="Stepan 18.2"]
+"66322f00-dce9-425b-828f-37fdcad39e89" [label="Lyudmila"]
+"3d7dcbbf-ec57-4813-936e-62eaeac53f4c" -> "66322f00-dce9-425b-828f-37fdcad39e89"
+"5bc6f525-854b-409b-a1c1-99121e155445" -> "66322f00-dce9-425b-828f-37fdcad39e89"
+
+"8016ad9b-a5ec-4f54-9e28-c272f0d204c0" [label="Antonina 18.2"]
+"ae29bf96-1655-4d6a-9106-e4c9840d6947" [label="Valeriy 18.3"]
+"2b2fd8b0-8285-4bc4-972e-99cf8bc9147b" [label="Alina"]
+"8016ad9b-a5ec-4f54-9e28-c272f0d204c0" -> "2b2fd8b0-8285-4bc4-972e-99cf8bc9147b"
+"ae29bf96-1655-4d6a-9106-e4c9840d6947" -> "2b2fd8b0-8285-4bc4-972e-99cf8bc9147b"
+
+"73191fa5-428f-4368-a914-ee8d501c85a5" [label="Ksenia 18.9"]
+"40d9539f-01ec-442b-b664-f647a9ce10ff" [label="Yury 18.8"]
+"69f3cbc7-e3f6-4796-a1e0-10042bd2e818" [label="Diana"]
+"73191fa5-428f-4368-a914-ee8d501c85a5" -> "69f3cbc7-e3f6-4796-a1e0-10042bd2e818"
+"40d9539f-01ec-442b-b664-f647a9ce10ff" -> "69f3cbc7-e3f6-4796-a1e0-10042bd2e818"
+
+"4f6e8e63-78ff-4d53-a343-e58628e3d7c4" [label="Ksenia 19.2"]
+"eb8c233a-79a1-43bb-b7bf-c867e3fcd879" [label="Georgy 19.2"]
+"93d81286-c574-41ed-93df-52e58cd3a7fc" [label="Vasily"]
+"4f6e8e63-78ff-4d53-a343-e58628e3d7c4" -> "93d81286-c574-41ed-93df-52e58cd3a7fc"
+"eb8c233a-79a1-43bb-b7bf-c867e3fcd879" -> "93d81286-c574-41ed-93df-52e58cd3a7fc"
+
+"e07c09eb-43c8-43db-9093-37c46f18b4b2" [label="Zoya 19.2"]
+"2a0d0748-3774-4485-8b72-95bde6fcadb9" [label="Vasily 19.1"]
+"24a4fdfe-de38-41b4-8606-c1555e772e61" [label="Valentina"]
+"e07c09eb-43c8-43db-9093-37c46f18b4b2" -> "24a4fdfe-de38-41b4-8606-c1555e772e61"
+"2a0d0748-3774-4485-8b72-95bde6fcadb9" -> "24a4fdfe-de38-41b4-8606-c1555e772e61"
+
+"3d7dcbbf-ec57-4813-936e-62eaeac53f4c" [label="Lyubov 19.2"]
+"5bc6f525-854b-409b-a1c1-99121e155445" [label="Stepan 19.2"]
+"03dc4715-efd7-4a66-8b32-e6a27329897e" [label="Lidia"]
+"3d7dcbbf-ec57-4813-936e-62eaeac53f4c" -> "03dc4715-efd7-4a66-8b32-e6a27329897e"
+"5bc6f525-854b-409b-a1c1-99121e155445" -> "03dc4715-efd7-4a66-8b32-e6a27329897e"
+
+"73191fa5-428f-4368-a914-ee8d501c85a5" [label="Ksenia 19.9"]
+"40d9539f-01ec-442b-b664-f647a9ce10ff" [label="Yury 19.8"]
+"db64d175-99d7-483e-9582-362ae752a360" [label="Diana"]
+"73191fa5-428f-4368-a914-ee8d501c85a5" -> "db64d175-99d7-483e-9582-362ae752a360"
+"40d9539f-01ec-442b-b664-f647a9ce10ff" -> "db64d175-99d7-483e-9582-362ae752a360"
+
+"73191fa5-428f-4368-a914-ee8d501c85a5" [label="Ksenia 20.9"]
+"40d9539f-01ec-442b-b664-f647a9ce10ff" [label="Yury 20.8"]
+"8c642702-9184-4e8e-a24c-efa30c95e27c" [label="Inna"]
+"73191fa5-428f-4368-a914-ee8d501c85a5" -> "8c642702-9184-4e8e-a24c-efa30c95e27c"
+"40d9539f-01ec-442b-b664-f647a9ce10ff" -> "8c642702-9184-4e8e-a24c-efa30c95e27c"
+
+"af75f21d-9c65-4d15-945f-f350f18b1d47" [label="Polina 21.3"]
+"9d08cb40-3470-42c3-9a47-8be3da1b4c2c" [label="Igor 21.2"]
+"9533a128-2959-4305-b0ee-04b839dacaf0" [label="Dina"]
+"af75f21d-9c65-4d15-945f-f350f18b1d47" -> "9533a128-2959-4305-b0ee-04b839dacaf0"
+"9d08cb40-3470-42c3-9a47-8be3da1b4c2c" -> "9533a128-2959-4305-b0ee-04b839dacaf0"
+
+"af75f21d-9c65-4d15-945f-f350f18b1d47" [label="Polina 22.3"]
+"9d08cb40-3470-42c3-9a47-8be3da1b4c2c" [label="Igor 22.2"]
+"984955fc-5c05-4dc3-bf6e-dfb4c66fa3e1" [label="Alisa"]
+"af75f21d-9c65-4d15-945f-f350f18b1d47" -> "984955fc-5c05-4dc3-bf6e-dfb4c66fa3e1"
+"9d08cb40-3470-42c3-9a47-8be3da1b4c2c" -> "984955fc-5c05-4dc3-bf6e-dfb4c66fa3e1"
+
+"af75f21d-9c65-4d15-945f-f350f18b1d47" [label="Polina 23.3"]
+"9d08cb40-3470-42c3-9a47-8be3da1b4c2c" [label="Igor 23.2"]
+"997bc753-bd90-4e5e-96e4-244746f4c10a" [label="Nina"]
+"af75f21d-9c65-4d15-945f-f350f18b1d47" -> "997bc753-bd90-4e5e-96e4-244746f4c10a"
+"9d08cb40-3470-42c3-9a47-8be3da1b4c2c" -> "997bc753-bd90-4e5e-96e4-244746f4c10a"
+
+"3d7dcbbf-ec57-4813-936e-62eaeac53f4c" [label="Lyubov 30.4"]
+"33b4f74f-1dd3-4978-9399-a88c80e15dc3" [label="Nikita 30.3"]
+"c6f3f652-3c08-4bea-933a-9ec6080ed4f1" [label="Viktoria"]
+"3d7dcbbf-ec57-4813-936e-62eaeac53f4c" -> "c6f3f652-3c08-4bea-933a-9ec6080ed4f1"
+"33b4f74f-1dd3-4978-9399-a88c80e15dc3" -> "c6f3f652-3c08-4bea-933a-9ec6080ed4f1"
+
+"24773c5b-435b-407b-8747-f8e992934ff6" [label="Polina 33.6"]
+"40d9539f-01ec-442b-b664-f647a9ce10ff" [label="Yury 33.5"]
+"922d7524-0c96-45e5-a5b2-69a21dce06f5" [label="Yevgeny"]
+"24773c5b-435b-407b-8747-f8e992934ff6" -> "922d7524-0c96-45e5-a5b2-69a21dce06f5"
+"40d9539f-01ec-442b-b664-f647a9ce10ff" -> "922d7524-0c96-45e5-a5b2-69a21dce06f5"
+
+"b5990f89-2248-4137-b4f0-fbedf5f7350b" [label="Valentina 18.2"]
+"5600c7d3-f4f6-4085-b09c-c5ee5cf0a3dc" [label="Yury 18.2"]
+"da4a6c0f-553a-41e1-95fe-dadf21b86e0d" [label="Zoya"]
+"b5990f89-2248-4137-b4f0-fbedf5f7350b" -> "da4a6c0f-553a-41e1-95fe-dadf21b86e0d"
+"5600c7d3-f4f6-4085-b09c-c5ee5cf0a3dc" -> "da4a6c0f-553a-41e1-95fe-dadf21b86e0d"
+
+"ceb50a2e-f870-4163-822b-966dc77b37c6" [label="Anastasia 18.2"]
+"8e48489d-0354-4afe-8940-1580848a2c89" [label="Ivan 34.2"]
+"11ae592c-369e-4d44-abba-55b1b95fad0e" [label="Olga"]
+"ceb50a2e-f870-4163-822b-966dc77b37c6" -> "11ae592c-369e-4d44-abba-55b1b95fad0e"
+"8e48489d-0354-4afe-8940-1580848a2c89" -> "11ae592c-369e-4d44-abba-55b1b95fad0e"
+
+"3e3f811f-951a-4223-bccd-e6c2252d72e7" [label="Dina 18.2"]
+"9708d536-c8e6-4728-b210-7e71b58b2bb3" [label="Sergey 18.2"]
+"6f37e6d3-1071-44ba-b258-ebb861ee84ae" [label="Olga"]
+"3e3f811f-951a-4223-bccd-e6c2252d72e7" -> "6f37e6d3-1071-44ba-b258-ebb861ee84ae"
+"9708d536-c8e6-4728-b210-7e71b58b2bb3" -> "6f37e6d3-1071-44ba-b258-ebb861ee84ae"
+
+"b5990f89-2248-4137-b4f0-fbedf5f7350b" [label="Valentina 19.2"]
+"5600c7d3-f4f6-4085-b09c-c5ee5cf0a3dc" [label="Yury 19.2"]
+"3e34f133-b3f3-443e-aa85-2005f2078bcf" [label="Sergey"]
+"b5990f89-2248-4137-b4f0-fbedf5f7350b" -> "3e34f133-b3f3-443e-aa85-2005f2078bcf"
+"5600c7d3-f4f6-4085-b09c-c5ee5cf0a3dc" -> "3e34f133-b3f3-443e-aa85-2005f2078bcf"
+
+"ceb50a2e-f870-4163-822b-966dc77b37c6" [label="Anastasia 19.2"]
+"8e48489d-0354-4afe-8940-1580848a2c89" [label="Ivan 35.2"]
+"2299b25a-e0df-44d7-a0d2-77fa6b235f23" [label="Lia"]
+"ceb50a2e-f870-4163-822b-966dc77b37c6" -> "2299b25a-e0df-44d7-a0d2-77fa6b235f23"
+"8e48489d-0354-4afe-8940-1580848a2c89" -> "2299b25a-e0df-44d7-a0d2-77fa6b235f23"
+
+"3e3f811f-951a-4223-bccd-e6c2252d72e7" [label="Dina 19.2"]
+"9708d536-c8e6-4728-b210-7e71b58b2bb3" [label="Sergey 19.2"]
+"9c86e043-b2b2-4ab5-99dc-68deb4c3061f" [label="Darya"]
+"3e3f811f-951a-4223-bccd-e6c2252d72e7" -> "9c86e043-b2b2-4ab5-99dc-68deb4c3061f"
+"9708d536-c8e6-4728-b210-7e71b58b2bb3" -> "9c86e043-b2b2-4ab5-99dc-68deb4c3061f"
+
+"ceb50a2e-f870-4163-822b-966dc77b37c6" [label="Anastasia 20.2"]
+"8e48489d-0354-4afe-8940-1580848a2c89" [label="Ivan 36.2"]
+"9c3a1114-de05-47c5-82de-4cb780961ea2" [label="Ilya"]
+"ceb50a2e-f870-4163-822b-966dc77b37c6" -> "9c3a1114-de05-47c5-82de-4cb780961ea2"
+"8e48489d-0354-4afe-8940-1580848a2c89" -> "9c3a1114-de05-47c5-82de-4cb780961ea2"
+
+"75d382e2-f67e-436b-bf31-82568433f494" [label="Kira 36.3"]
+"58cd5240-3185-4719-b735-090d58ba8215" [label="Timofey 20.2"]
+"b9d44ace-4c62-4337-a1cf-8c2ce89981a8" [label="Grigory"]
+"75d382e2-f67e-436b-bf31-82568433f494" -> "b9d44ace-4c62-4337-a1cf-8c2ce89981a8"
+"58cd5240-3185-4719-b735-090d58ba8215" -> "b9d44ace-4c62-4337-a1cf-8c2ce89981a8"
+
+"3e3f811f-951a-4223-bccd-e6c2252d72e7" [label="Dina 20.2"]
+"9708d536-c8e6-4728-b210-7e71b58b2bb3" [label="Sergey 20.2"]
+"5f074909-4ef6-42e8-809a-dddbdcffff7f" [label="Fedor"]
+"3e3f811f-951a-4223-bccd-e6c2252d72e7" -> "5f074909-4ef6-42e8-809a-dddbdcffff7f"
+"9708d536-c8e6-4728-b210-7e71b58b2bb3" -> "5f074909-4ef6-42e8-809a-dddbdcffff7f"
+
+"9f39ae66-2a67-42aa-bc44-777078b38d52" [label="Ksenia 20.2"]
+"517d2d7b-ddf9-48ac-b221-77a8a27c4cf4" [label="Semyon 18.1"]
+"741e1d87-d5b3-4aba-bda5-fd500ae2b283" [label="Fedor"]
+"9f39ae66-2a67-42aa-bc44-777078b38d52" -> "741e1d87-d5b3-4aba-bda5-fd500ae2b283"
+"517d2d7b-ddf9-48ac-b221-77a8a27c4cf4" -> "741e1d87-d5b3-4aba-bda5-fd500ae2b283"
+
+"ee51bc44-2172-4c37-8719-204c14a85760" [label="Irina 18.2"]
+"2411bf42-65c8-4c27-988b-5da3fae86fb4" [label="Maksim 20.3"]
+"c1171cce-8e64-4c2e-81a7-d03470a9950c" [label="Anatoly"]
+"ee51bc44-2172-4c37-8719-204c14a85760" -> "c1171cce-8e64-4c2e-81a7-d03470a9950c"
+"2411bf42-65c8-4c27-988b-5da3fae86fb4" -> "c1171cce-8e64-4c2e-81a7-d03470a9950c"
+
+"66322f00-dce9-425b-828f-37fdcad39e89" [label="Lyudmila 18.2"]
+"2135dc25-0e2a-44f0-b258-c8d66557f5cf" [label="Aleksandr 20.4"]
+"04ec4704-cb2c-487b-9e70-bb4175bd2158" [label="Anna"]
+"66322f00-dce9-425b-828f-37fdcad39e89" -> "04ec4704-cb2c-487b-9e70-bb4175bd2158"
+"2135dc25-0e2a-44f0-b258-c8d66557f5cf" -> "04ec4704-cb2c-487b-9e70-bb4175bd2158"
+
+"789e3ce4-fd92-42e3-9db1-a9951ff1ddcd" [label="Angelina 18.8"]
+"5f4d8d4e-366f-4683-b08f-cbfa8b410e59" [label="Pyotr 20.8"]
+"f2631552-ba29-4800-8f4c-8f07f9b6c572" [label="Oksana"]
+"789e3ce4-fd92-42e3-9db1-a9951ff1ddcd" -> "f2631552-ba29-4800-8f4c-8f07f9b6c572"
+"5f4d8d4e-366f-4683-b08f-cbfa8b410e59" -> "f2631552-ba29-4800-8f4c-8f07f9b6c572"
+
+"75d382e2-f67e-436b-bf31-82568433f494" [label="Kira 37.3"]
+"58cd5240-3185-4719-b735-090d58ba8215" [label="Timofey 21.2"]
+"49e8a1ee-9f2c-4fc3-a9a7-941e0cc8ea19" [label="Anton"]
+"75d382e2-f67e-436b-bf31-82568433f494" -> "49e8a1ee-9f2c-4fc3-a9a7-941e0cc8ea19"
+"58cd5240-3185-4719-b735-090d58ba8215" -> "49e8a1ee-9f2c-4fc3-a9a7-941e0cc8ea19"
+
+"9f39ae66-2a67-42aa-bc44-777078b38d52" [label="Ksenia 21.2"]
+"517d2d7b-ddf9-48ac-b221-77a8a27c4cf4" [label="Semyon 19.1"]
+"e04c9919-5217-4038-b9a4-4aa6a6ccaea0" [label="Albina"]
+"9f39ae66-2a67-42aa-bc44-777078b38d52" -> "e04c9919-5217-4038-b9a4-4aa6a6ccaea0"
+"517d2d7b-ddf9-48ac-b221-77a8a27c4cf4" -> "e04c9919-5217-4038-b9a4-4aa6a6ccaea0"
+
+"ee51bc44-2172-4c37-8719-204c14a85760" [label="Irina 19.2"]
+"2411bf42-65c8-4c27-988b-5da3fae86fb4" [label="Maksim 21.3"]
+"63dc3492-32b0-4b85-80e3-b79945727219" [label="Artem"]
+"ee51bc44-2172-4c37-8719-204c14a85760" -> "63dc3492-32b0-4b85-80e3-b79945727219"
+"2411bf42-65c8-4c27-988b-5da3fae86fb4" -> "63dc3492-32b0-4b85-80e3-b79945727219"
+
+"24a4fdfe-de38-41b4-8606-c1555e772e61" [label="Valentina 18.2"]
+"e77dd884-88ea-4546-948a-9f16155d8160" [label="Vitaly 21.2"]
+"fc708770-1ec6-4636-b942-6ddace7534d3" [label="Alla"]
+"24a4fdfe-de38-41b4-8606-c1555e772e61" -> "fc708770-1ec6-4636-b942-6ddace7534d3"
+"e77dd884-88ea-4546-948a-9f16155d8160" -> "fc708770-1ec6-4636-b942-6ddace7534d3"
+
+"66322f00-dce9-425b-828f-37fdcad39e89" [label="Lyudmila 19.2"]
+"2135dc25-0e2a-44f0-b258-c8d66557f5cf" [label="Aleksandr 21.4"]
+"0c01e725-eb30-4c21-b84d-5319884e38ce" [label="Larisa"]
+"66322f00-dce9-425b-828f-37fdcad39e89" -> "0c01e725-eb30-4c21-b84d-5319884e38ce"
+"2135dc25-0e2a-44f0-b258-c8d66557f5cf" -> "0c01e725-eb30-4c21-b84d-5319884e38ce"
+
+"789e3ce4-fd92-42e3-9db1-a9951ff1ddcd" [label="Angelina 19.8"]
+"5f4d8d4e-366f-4683-b08f-cbfa8b410e59" [label="Pyotr 21.8"]
+"9b900430-6333-43e1-8b37-06ae88f363b9" [label="Tihon"]
+"789e3ce4-fd92-42e3-9db1-a9951ff1ddcd" -> "9b900430-6333-43e1-8b37-06ae88f363b9"
+"5f4d8d4e-366f-4683-b08f-cbfa8b410e59" -> "9b900430-6333-43e1-8b37-06ae88f363b9"
+
+"75d382e2-f67e-436b-bf31-82568433f494" [label="Kira 38.3"]
+"58cd5240-3185-4719-b735-090d58ba8215" [label="Timofey 22.2"]
+"3b168278-fb9e-429e-8de5-3aeef475b2e1" [label="Lev"]
+"75d382e2-f67e-436b-bf31-82568433f494" -> "3b168278-fb9e-429e-8de5-3aeef475b2e1"
+"58cd5240-3185-4719-b735-090d58ba8215" -> "3b168278-fb9e-429e-8de5-3aeef475b2e1"
+
+"9f39ae66-2a67-42aa-bc44-777078b38d52" [label="Ksenia 22.2"]
+"517d2d7b-ddf9-48ac-b221-77a8a27c4cf4" [label="Semyon 20.1"]
+"4a8bd0f5-7d6e-4363-b2ca-9250917d3cd2" [label="Timur"]
+"9f39ae66-2a67-42aa-bc44-777078b38d52" -> "4a8bd0f5-7d6e-4363-b2ca-9250917d3cd2"
+"517d2d7b-ddf9-48ac-b221-77a8a27c4cf4" -> "4a8bd0f5-7d6e-4363-b2ca-9250917d3cd2"
+
+"24a4fdfe-de38-41b4-8606-c1555e772e61" [label="Valentina 19.2"]
+"e77dd884-88ea-4546-948a-9f16155d8160" [label="Vitaly 22.2"]
+"2d6736ba-b359-49d0-a1c1-32472dcac080" [label="Timur"]
+"24a4fdfe-de38-41b4-8606-c1555e772e61" -> "2d6736ba-b359-49d0-a1c1-32472dcac080"
+"e77dd884-88ea-4546-948a-9f16155d8160" -> "2d6736ba-b359-49d0-a1c1-32472dcac080"
+
+"24a4fdfe-de38-41b4-8606-c1555e772e61" [label="Valentina 20.2"]
+"e77dd884-88ea-4546-948a-9f16155d8160" [label="Vitaly 23.2"]
+"f9cae7d0-6891-4f05-990a-6434f72d8808" [label="Natalya"]
+"24a4fdfe-de38-41b4-8606-c1555e772e61" -> "f9cae7d0-6891-4f05-990a-6434f72d8808"
+"e77dd884-88ea-4546-948a-9f16155d8160" -> "f9cae7d0-6891-4f05-990a-6434f72d8808"
+
+"60544988-cded-48aa-b834-307dd7224d57" [label="Oksana 25.8"]
+"338f4660-4263-45be-8ca6-3b0f3c1879e2" [label="Kirill 25.8"]
+"12ab20e4-1566-4f53-80e0-a7df4854e71b" [label="Maksim"]
+"60544988-cded-48aa-b834-307dd7224d57" -> "12ab20e4-1566-4f53-80e0-a7df4854e71b"
+"338f4660-4263-45be-8ca6-3b0f3c1879e2" -> "12ab20e4-1566-4f53-80e0-a7df4854e71b"
+
+"05345f7e-b124-493c-82c4-3ae952cb9f3b" [label="Nadezhda 48.0"]
+"9708d536-c8e6-4728-b210-7e71b58b2bb3" [label="Sergey 32.0"]
+"7d1a9f4e-5890-469f-93a8-b4d41826fbb5" [label="Denis"]
+"05345f7e-b124-493c-82c4-3ae952cb9f3b" -> "7d1a9f4e-5890-469f-93a8-b4d41826fbb5"
+"9708d536-c8e6-4728-b210-7e71b58b2bb3" -> "7d1a9f4e-5890-469f-93a8-b4d41826fbb5"
+
+"2b2fd8b0-8285-4bc4-972e-99cf8bc9147b" [label="Alina 30.8"]
+"53ccbcc0-f671-42bd-8e85-7af80c067bb0" [label="Timur 48.9"]
+"d7fa2b31-7cec-4bf2-8c0d-50dfc6d22394" [label="Mikhail"]
+"2b2fd8b0-8285-4bc4-972e-99cf8bc9147b" -> "d7fa2b31-7cec-4bf2-8c0d-50dfc6d22394"
+"53ccbcc0-f671-42bd-8e85-7af80c067bb0" -> "d7fa2b31-7cec-4bf2-8c0d-50dfc6d22394"
+
+"05345f7e-b124-493c-82c4-3ae952cb9f3b" [label="Nadezhda 49.0"]
+"9708d536-c8e6-4728-b210-7e71b58b2bb3" [label="Sergey 33.0"]
+"820f053a-342b-4d7a-b1f7-fb3a9ef893c9" [label="Zahar"]
+"05345f7e-b124-493c-82c4-3ae952cb9f3b" -> "820f053a-342b-4d7a-b1f7-fb3a9ef893c9"
+"9708d536-c8e6-4728-b210-7e71b58b2bb3" -> "820f053a-342b-4d7a-b1f7-fb3a9ef893c9"
+
+"05345f7e-b124-493c-82c4-3ae952cb9f3b" [label="Nadezhda 50.0"]
+"9708d536-c8e6-4728-b210-7e71b58b2bb3" [label="Sergey 34.0"]
+"01334591-3617-48b3-9cbc-e7310cfd444a" [label="Pyotr"]
+"05345f7e-b124-493c-82c4-3ae952cb9f3b" -> "01334591-3617-48b3-9cbc-e7310cfd444a"
+"9708d536-c8e6-4728-b210-7e71b58b2bb3" -> "01334591-3617-48b3-9cbc-e7310cfd444a"
+
+"03dc4715-efd7-4a66-8b32-e6a27329897e" [label="Lidia 31.6"]
+"fbdefa31-b531-491f-a2b5-e797f915c12b" [label="Valeriy 34.8"]
+"73a63bf8-22f3-49e8-81b4-5dc67d26eb0b" [label="Anna"]
+"03dc4715-efd7-4a66-8b32-e6a27329897e" -> "73a63bf8-22f3-49e8-81b4-5dc67d26eb0b"
+"fbdefa31-b531-491f-a2b5-e797f915c12b" -> "73a63bf8-22f3-49e8-81b4-5dc67d26eb0b"
+
+"03dc4715-efd7-4a66-8b32-e6a27329897e" [label="Lidia 32.6"]
+"fbdefa31-b531-491f-a2b5-e797f915c12b" [label="Valeriy 35.8"]
+"2c54242f-f849-451a-9c14-adbda3332e18" [label="Maria"]
+"03dc4715-efd7-4a66-8b32-e6a27329897e" -> "2c54242f-f849-451a-9c14-adbda3332e18"
+"fbdefa31-b531-491f-a2b5-e797f915c12b" -> "2c54242f-f849-451a-9c14-adbda3332e18"
+
+"11ae592c-369e-4d44-abba-55b1b95fad0e" [label="Olga 19.2"]
+"3e34f133-b3f3-443e-aa85-2005f2078bcf" [label="Sergey 18.1"]
+"e5aa5357-7b6b-4f01-96c9-37874b7c9e48" [label="Marina"]
+"11ae592c-369e-4d44-abba-55b1b95fad0e" -> "e5aa5357-7b6b-4f01-96c9-37874b7c9e48"
+"3e34f133-b3f3-443e-aa85-2005f2078bcf" -> "e5aa5357-7b6b-4f01-96c9-37874b7c9e48"
+
+"11ae592c-369e-4d44-abba-55b1b95fad0e" [label="Olga 20.2"]
+"3e34f133-b3f3-443e-aa85-2005f2078bcf" [label="Sergey 19.1"]
+"87dbad4b-b845-4989-b5ac-74988b5b68a2" [label="Alina"]
+"11ae592c-369e-4d44-abba-55b1b95fad0e" -> "87dbad4b-b845-4989-b5ac-74988b5b68a2"
+"3e34f133-b3f3-443e-aa85-2005f2078bcf" -> "87dbad4b-b845-4989-b5ac-74988b5b68a2"
+
+"04ec4704-cb2c-487b-9e70-bb4175bd2158" [label="Anna 18.2"]
+"c1171cce-8e64-4c2e-81a7-d03470a9950c" [label="Anatoly 18.3"]
+"9e590d20-a32a-49b4-a271-f8baa29b7f29" [label="Konstantin"]
+"04ec4704-cb2c-487b-9e70-bb4175bd2158" -> "9e590d20-a32a-49b4-a271-f8baa29b7f29"
+"c1171cce-8e64-4c2e-81a7-d03470a9950c" -> "9e590d20-a32a-49b4-a271-f8baa29b7f29"
+
+"f2631552-ba29-4800-8f4c-8f07f9b6c572" [label="Oksana 18.2"]
+"b67a0260-6c76-42c9-bd25-5c010317dc0f" [label="Fedor 38.9"]
+"65e1be72-8dae-4d5a-9cdc-7abb3ed8526e" [label="Timur"]
+"f2631552-ba29-4800-8f4c-8f07f9b6c572" -> "65e1be72-8dae-4d5a-9cdc-7abb3ed8526e"
+"b67a0260-6c76-42c9-bd25-5c010317dc0f" -> "65e1be72-8dae-4d5a-9cdc-7abb3ed8526e"
+
+"04ec4704-cb2c-487b-9e70-bb4175bd2158" [label="Anna 19.2"]
+"c1171cce-8e64-4c2e-81a7-d03470a9950c" [label="Anatoly 19.3"]
+"eae05201-a045-4360-b74c-290c5ea3146a" [label="Ekaterina"]
+"04ec4704-cb2c-487b-9e70-bb4175bd2158" -> "eae05201-a045-4360-b74c-290c5ea3146a"
+"c1171cce-8e64-4c2e-81a7-d03470a9950c" -> "eae05201-a045-4360-b74c-290c5ea3146a"
+
+"0c01e725-eb30-4c21-b84d-5319884e38ce" [label="Larisa 18.2"]
+"63dc3492-32b0-4b85-80e3-b79945727219" [label="Artem 18.3"]
+"ec7f3e96-7500-4184-bc11-72c8163532ef" [label="Matvey"]
+"0c01e725-eb30-4c21-b84d-5319884e38ce" -> "ec7f3e96-7500-4184-bc11-72c8163532ef"
+"63dc3492-32b0-4b85-80e3-b79945727219" -> "ec7f3e96-7500-4184-bc11-72c8163532ef"
+
+"f2631552-ba29-4800-8f4c-8f07f9b6c572" [label="Oksana 19.2"]
+"b67a0260-6c76-42c9-bd25-5c010317dc0f" [label="Fedor 39.9"]
+"981779e0-970b-4ab8-9ebb-130853c7180f" [label="Antonina"]
+"f2631552-ba29-4800-8f4c-8f07f9b6c572" -> "981779e0-970b-4ab8-9ebb-130853c7180f"
+"b67a0260-6c76-42c9-bd25-5c010317dc0f" -> "981779e0-970b-4ab8-9ebb-130853c7180f"
+
+"04ec4704-cb2c-487b-9e70-bb4175bd2158" [label="Anna 20.2"]
+"c1171cce-8e64-4c2e-81a7-d03470a9950c" [label="Anatoly 20.3"]
+"1dbda69f-0c46-4eb0-8482-df809ff240ab" [label="Matvey"]
+"04ec4704-cb2c-487b-9e70-bb4175bd2158" -> "1dbda69f-0c46-4eb0-8482-df809ff240ab"
+"c1171cce-8e64-4c2e-81a7-d03470a9950c" -> "1dbda69f-0c46-4eb0-8482-df809ff240ab"
+
+"da4a6c0f-553a-41e1-95fe-dadf21b86e0d" [label="Zoya 25.9"]
+"12ab20e4-1566-4f53-80e0-a7df4854e71b" [label="Maksim 18.2"]
+"95c31b27-2ff1-49c7-8d1a-47edb3cef77a" [label="Viktor"]
+"da4a6c0f-553a-41e1-95fe-dadf21b86e0d" -> "95c31b27-2ff1-49c7-8d1a-47edb3cef77a"
+"12ab20e4-1566-4f53-80e0-a7df4854e71b" -> "95c31b27-2ff1-49c7-8d1a-47edb3cef77a"
+
+"c6f3f652-3c08-4bea-933a-9ec6080ed4f1" [label="Viktoria 30.7"]
+"2411bf42-65c8-4c27-988b-5da3fae86fb4" [label="Maksim 44.9"]
+"ec0ecf92-07ae-44e1-9177-438f27310090" [label="Varvara"]
+"c6f3f652-3c08-4bea-933a-9ec6080ed4f1" -> "ec0ecf92-07ae-44e1-9177-438f27310090"
+"2411bf42-65c8-4c27-988b-5da3fae86fb4" -> "ec0ecf92-07ae-44e1-9177-438f27310090"
+
+"672e6292-4349-43fc-923d-2003470e8f22" [label="Antonina 45.3"]
+"5f074909-4ef6-42e8-809a-dddbdcffff7f" [label="Fedor 25.0"]
+"991c28c8-17bb-4d79-ae8f-3a1e7fb626f1" [label="Polina"]
+"672e6292-4349-43fc-923d-2003470e8f22" -> "991c28c8-17bb-4d79-ae8f-3a1e7fb626f1"
+"5f074909-4ef6-42e8-809a-dddbdcffff7f" -> "991c28c8-17bb-4d79-ae8f-3a1e7fb626f1"
+
+"c6f3f652-3c08-4bea-933a-9ec6080ed4f1" [label="Viktoria 31.7"]
+"2411bf42-65c8-4c27-988b-5da3fae86fb4" [label="Maksim 45.9"]
+"ac795d36-6bc2-4891-9600-a5c083bbb825" [label="Kirill"]
+"c6f3f652-3c08-4bea-933a-9ec6080ed4f1" -> "ac795d36-6bc2-4891-9600-a5c083bbb825"
+"2411bf42-65c8-4c27-988b-5da3fae86fb4" -> "ac795d36-6bc2-4891-9600-a5c083bbb825"
+
+"e04c9919-5217-4038-b9a4-4aa6a6ccaea0" [label="Albina 29.9"]
+"d7fa2b31-7cec-4bf2-8c0d-50dfc6d22394" [label="Mikhail 18.1"]
+"5cdd31f6-1d0a-481d-a8d8-5b003d6b6e68" [label="Roman"]
+"e04c9919-5217-4038-b9a4-4aa6a6ccaea0" -> "5cdd31f6-1d0a-481d-a8d8-5b003d6b6e68"
+"d7fa2b31-7cec-4bf2-8c0d-50dfc6d22394" -> "5cdd31f6-1d0a-481d-a8d8-5b003d6b6e68"
+
+"2299b25a-e0df-44d7-a0d2-77fa6b235f23" [label="Lia 41.2"]
+"3e34f133-b3f3-443e-aa85-2005f2078bcf" [label="Sergey 41.2"]
+"1145da05-68aa-4d8b-9474-6d4593feeaac" [label="Semyon"]
+"2299b25a-e0df-44d7-a0d2-77fa6b235f23" -> "1145da05-68aa-4d8b-9474-6d4593feeaac"
+"3e34f133-b3f3-443e-aa85-2005f2078bcf" -> "1145da05-68aa-4d8b-9474-6d4593feeaac"
+
+"87dbad4b-b845-4989-b5ac-74988b5b68a2" [label="Alina 37.5"]
+"12ab20e4-1566-4f53-80e0-a7df4854e71b" [label="Maksim 50.1"]
+"2f5be672-924b-4f24-aaa4-28987847611f" [label="Maria"]
+"87dbad4b-b845-4989-b5ac-74988b5b68a2" -> "2f5be672-924b-4f24-aaa4-28987847611f"
+"12ab20e4-1566-4f53-80e0-a7df4854e71b" -> "2f5be672-924b-4f24-aaa4-28987847611f"
+
+"f9cae7d0-6891-4f05-990a-6434f72d8808" [label="Natalya 52.6"]
+"6521652d-b8d8-4eef-9320-12c088561244" [label="Nikolay 18.1"]
+"57b3ba24-2399-48f4-89d7-84348fe457a5" [label="Dmitry"]
+"f9cae7d0-6891-4f05-990a-6434f72d8808" -> "57b3ba24-2399-48f4-89d7-84348fe457a5"
+"6521652d-b8d8-4eef-9320-12c088561244" -> "57b3ba24-2399-48f4-89d7-84348fe457a5"
+
+"dcdf02ad-701e-49b8-a8bb-16049fb303df" [label="Olga 18.2"]
+"95c31b27-2ff1-49c7-8d1a-47edb3cef77a" [label="Viktor 32.1"]
+"9d3a1030-9030-482b-88d3-9d94e9c0e43c" [label="Arkady"]
+"dcdf02ad-701e-49b8-a8bb-16049fb303df" -> "9d3a1030-9030-482b-88d3-9d94e9c0e43c"
+"95c31b27-2ff1-49c7-8d1a-47edb3cef77a" -> "9d3a1030-9030-482b-88d3-9d94e9c0e43c"
+
+"c403df8d-249e-409c-ba90-2aa9291e9aa7" [label="Maria 18.2"]
+"820f053a-342b-4d7a-b1f7-fb3a9ef893c9" [label="Zahar 43.0"]
+"c6526328-be18-4fd0-905d-5f4c09624db0" [label="Anton"]
+"c403df8d-249e-409c-ba90-2aa9291e9aa7" -> "c6526328-be18-4fd0-905d-5f4c09624db0"
+"820f053a-342b-4d7a-b1f7-fb3a9ef893c9" -> "c6526328-be18-4fd0-905d-5f4c09624db0"
+
+"e3079ba2-16b0-489f-85b2-d87139d743a4" [label="Tatyana 18.2"]
+"0dea564f-6e78-4587-8037-923f20589477" [label="Ruslan 18.1"]
+"463df8a9-88d5-4ed0-8350-a28e01b989ab" [label="Alina"]
+"e3079ba2-16b0-489f-85b2-d87139d743a4" -> "463df8a9-88d5-4ed0-8350-a28e01b989ab"
+"0dea564f-6e78-4587-8037-923f20589477" -> "463df8a9-88d5-4ed0-8350-a28e01b989ab"
+
+"d6f90c12-1dce-4e9a-8316-8e68647df22a" [label="Varvara 18.2"]
+"49e8a1ee-9f2c-4fc3-a9a7-941e0cc8ea19" [label="Anton 54.8"]
+"cc706029-de5b-4b0e-b8bd-78cc9b7b2ef4" [label="Anastasia"]
+"d6f90c12-1dce-4e9a-8316-8e68647df22a" -> "cc706029-de5b-4b0e-b8bd-78cc9b7b2ef4"
+"49e8a1ee-9f2c-4fc3-a9a7-941e0cc8ea19" -> "cc706029-de5b-4b0e-b8bd-78cc9b7b2ef4"
+
+"3c6e4c3b-f391-4b98-a027-3adb80b209d1" [label="Ekaterina 18.2"]
+"1dbda69f-0c46-4eb0-8482-df809ff240ab" [label="Matvey 35.6"]
+"6cb025b8-4fea-4529-b38e-af7276580aca" [label="Zoya"]
+"3c6e4c3b-f391-4b98-a027-3adb80b209d1" -> "6cb025b8-4fea-4529-b38e-af7276580aca"
+"1dbda69f-0c46-4eb0-8482-df809ff240ab" -> "6cb025b8-4fea-4529-b38e-af7276580aca"
+
+"48323623-9ec2-4087-96e3-f585be702e9c" [label="Zhanna 18.2"]
+"5cdd31f6-1d0a-481d-a8d8-5b003d6b6e68" [label="Roman 25.0"]
+"213768bb-caf8-4153-9fb0-09b622f66ae7" [label="Grigory"]
+"48323623-9ec2-4087-96e3-f585be702e9c" -> "213768bb-caf8-4153-9fb0-09b622f66ae7"
+"5cdd31f6-1d0a-481d-a8d8-5b003d6b6e68" -> "213768bb-caf8-4153-9fb0-09b622f66ae7"
+
+"594928b5-8d31-49ed-8015-e4d2988407ff" [label="Antonina 18.7"]
+"e0d111c0-777d-4339-9a35-1ed0a0ebd2c2" [label="Boris 18.7"]
+"c4de4581-b36f-485b-82b2-558dcefefe30" [label="Yevgeny"]
+"594928b5-8d31-49ed-8015-e4d2988407ff" -> "c4de4581-b36f-485b-82b2-558dcefefe30"
+"e0d111c0-777d-4339-9a35-1ed0a0ebd2c2" -> "c4de4581-b36f-485b-82b2-558dcefefe30"
+
+"87dbad4b-b845-4989-b5ac-74988b5b68a2" [label="Alina 38.5"]
+"12ab20e4-1566-4f53-80e0-a7df4854e71b" [label="Maksim 51.1"]
+"c1c4adc6-9777-4ae5-8c21-6af870417bda" [label="Timofey"]
+"87dbad4b-b845-4989-b5ac-74988b5b68a2" -> "c1c4adc6-9777-4ae5-8c21-6af870417bda"
+"12ab20e4-1566-4f53-80e0-a7df4854e71b" -> "c1c4adc6-9777-4ae5-8c21-6af870417bda"
+
+"f9cae7d0-6891-4f05-990a-6434f72d8808" [label="Natalya 53.6"]
+"6521652d-b8d8-4eef-9320-12c088561244" [label="Nikolay 19.1"]
+"b7affe8b-8adf-49dc-b39c-3df90051ca0f" [label="Andrey"]
+"f9cae7d0-6891-4f05-990a-6434f72d8808" -> "b7affe8b-8adf-49dc-b39c-3df90051ca0f"
+"6521652d-b8d8-4eef-9320-12c088561244" -> "b7affe8b-8adf-49dc-b39c-3df90051ca0f"
+
+"dcdf02ad-701e-49b8-a8bb-16049fb303df" [label="Olga 19.2"]
+"95c31b27-2ff1-49c7-8d1a-47edb3cef77a" [label="Viktor 33.1"]
+"0998317d-1735-45f2-b37e-02ab7ac292fb" [label="Kristina"]
+"dcdf02ad-701e-49b8-a8bb-16049fb303df" -> "0998317d-1735-45f2-b37e-02ab7ac292fb"
+"95c31b27-2ff1-49c7-8d1a-47edb3cef77a" -> "0998317d-1735-45f2-b37e-02ab7ac292fb"
+
+"e3079ba2-16b0-489f-85b2-d87139d743a4" [label="Tatyana 19.2"]
+"0dea564f-6e78-4587-8037-923f20589477" [label="Ruslan 19.1"]
+"de2cc204-f5ca-43d5-be2e-6b86cb7368c9" [label="Inna"]
+"e3079ba2-16b0-489f-85b2-d87139d743a4" -> "de2cc204-f5ca-43d5-be2e-6b86cb7368c9"
+"0dea564f-6e78-4587-8037-923f20589477" -> "de2cc204-f5ca-43d5-be2e-6b86cb7368c9"
+
+"d6f90c12-1dce-4e9a-8316-8e68647df22a" [label="Varvara 19.2"]
+"49e8a1ee-9f2c-4fc3-a9a7-941e0cc8ea19" [label="Anton 55.8"]
+"8acdaab8-44e1-4e07-9a54-35f359996b1b" [label="Elena"]
+"d6f90c12-1dce-4e9a-8316-8e68647df22a" -> "8acdaab8-44e1-4e07-9a54-35f359996b1b"
+"49e8a1ee-9f2c-4fc3-a9a7-941e0cc8ea19" -> "8acdaab8-44e1-4e07-9a54-35f359996b1b"
+
+"13d4d88c-9b99-4e2e-b525-a8ca728324ca" [label="Diana 19.6"]
+"24beb122-8fb4-4ccb-99a2-98fd4c0c77ad" [label="Timofey 19.7"]
+"2b3d5e5b-afbf-4a9f-ae6a-ce493fca7d6c" [label="Sofya"]
+"13d4d88c-9b99-4e2e-b525-a8ca728324ca" -> "2b3d5e5b-afbf-4a9f-ae6a-ce493fca7d6c"
+"24beb122-8fb4-4ccb-99a2-98fd4c0c77ad" -> "2b3d5e5b-afbf-4a9f-ae6a-ce493fca7d6c"
+
+"594928b5-8d31-49ed-8015-e4d2988407ff" [label="Antonina 19.7"]
+"e0d111c0-777d-4339-9a35-1ed0a0ebd2c2" [label="Boris 19.7"]
+"e5e9424e-b84c-4a60-9dab-1f54458d6531" [label="Gennady"]
+"594928b5-8d31-49ed-8015-e4d2988407ff" -> "e5e9424e-b84c-4a60-9dab-1f54458d6531"
+"e0d111c0-777d-4339-9a35-1ed0a0ebd2c2" -> "e5e9424e-b84c-4a60-9dab-1f54458d6531"
+
+"5c04c9f3-7508-4328-a8d3-ae84bf0acf6b" [label="Tatyana 20.0"]
+"c4a41355-1b94-4dc9-b809-990e3b354dbe" [label="Yury 20.0"]
+"ae00b715-c801-4e5a-9181-2c38a0d3dc09" [label="Leonid"]
+"5c04c9f3-7508-4328-a8d3-ae84bf0acf6b" -> "ae00b715-c801-4e5a-9181-2c38a0d3dc09"
+"c4a41355-1b94-4dc9-b809-990e3b354dbe" -> "ae00b715-c801-4e5a-9181-2c38a0d3dc09"
+
+"dcdf02ad-701e-49b8-a8bb-16049fb303df" [label="Olga 20.2"]
+"95c31b27-2ff1-49c7-8d1a-47edb3cef77a" [label="Viktor 34.1"]
+"9dc106ea-26f9-48bb-b2ee-72d1ea32888d" [label="Matvey"]
+"dcdf02ad-701e-49b8-a8bb-16049fb303df" -> "9dc106ea-26f9-48bb-b2ee-72d1ea32888d"
+"95c31b27-2ff1-49c7-8d1a-47edb3cef77a" -> "9dc106ea-26f9-48bb-b2ee-72d1ea32888d"
+
+"d6f90c12-1dce-4e9a-8316-8e68647df22a" [label="Varvara 20.2"]
+"49e8a1ee-9f2c-4fc3-a9a7-941e0cc8ea19" [label="Anton 56.8"]
+"d43aa09a-011e-47fe-8d22-9fa10e3c5316" [label="Timur"]
+"d6f90c12-1dce-4e9a-8316-8e68647df22a" -> "d43aa09a-011e-47fe-8d22-9fa10e3c5316"
+"49e8a1ee-9f2c-4fc3-a9a7-941e0cc8ea19" -> "d43aa09a-011e-47fe-8d22-9fa10e3c5316"
+
+"594928b5-8d31-49ed-8015-e4d2988407ff" [label="Antonina 20.7"]
+"e0d111c0-777d-4339-9a35-1ed0a0ebd2c2" [label="Boris 20.7"]
+"59f2d9b6-7e43-4ad1-82f9-4256b62e2cc5" [label="Semyon"]
+"594928b5-8d31-49ed-8015-e4d2988407ff" -> "59f2d9b6-7e43-4ad1-82f9-4256b62e2cc5"
+"e0d111c0-777d-4339-9a35-1ed0a0ebd2c2" -> "59f2d9b6-7e43-4ad1-82f9-4256b62e2cc5"
+
+"5c04c9f3-7508-4328-a8d3-ae84bf0acf6b" [label="Tatyana 21.0"]
+"c4a41355-1b94-4dc9-b809-990e3b354dbe" [label="Yury 21.0"]
+"80032cf9-2c9c-4669-b1ac-239529a82d37" [label="Oleg"]
+"5c04c9f3-7508-4328-a8d3-ae84bf0acf6b" -> "80032cf9-2c9c-4669-b1ac-239529a82d37"
+"c4a41355-1b94-4dc9-b809-990e3b354dbe" -> "80032cf9-2c9c-4669-b1ac-239529a82d37"
+
+"5c04c9f3-7508-4328-a8d3-ae84bf0acf6b" [label="Tatyana 22.0"]
+"c4a41355-1b94-4dc9-b809-990e3b354dbe" [label="Yury 22.0"]
+"40126ba8-9eb9-4998-91da-10acc8f8eb48" [label="Valeriy"]
+"5c04c9f3-7508-4328-a8d3-ae84bf0acf6b" -> "40126ba8-9eb9-4998-91da-10acc8f8eb48"
+"c4a41355-1b94-4dc9-b809-990e3b354dbe" -> "40126ba8-9eb9-4998-91da-10acc8f8eb48"
+
+"b69123db-fe7d-4e5b-bf0a-c9edec6e3714" [label="Galina 30.9"]
+"e0d111c0-777d-4339-9a35-1ed0a0ebd2c2" [label="Boris 31.0"]
+"2f2664b4-e6ee-4cb0-9b1e-f30cc97410bc" [label="Denis"]
+"b69123db-fe7d-4e5b-bf0a-c9edec6e3714" -> "2f2664b4-e6ee-4cb0-9b1e-f30cc97410bc"
+"e0d111c0-777d-4339-9a35-1ed0a0ebd2c2" -> "2f2664b4-e6ee-4cb0-9b1e-f30cc97410bc"
+
+"b69123db-fe7d-4e5b-bf0a-c9edec6e3714" [label="Galina 31.9"]
+"e0d111c0-777d-4339-9a35-1ed0a0ebd2c2" [label="Boris 32.0"]
+"a215cf41-3e23-4445-9667-b2bfd5787ca3" [label="Vasily"]
+"b69123db-fe7d-4e5b-bf0a-c9edec6e3714" -> "a215cf41-3e23-4445-9667-b2bfd5787ca3"
+"e0d111c0-777d-4339-9a35-1ed0a0ebd2c2" -> "a215cf41-3e23-4445-9667-b2bfd5787ca3"
+
+"9918b9ac-a2f5-4324-965e-72df08cf5abe" [label="Elizaveta 36.3"]
+"57b3ba24-2399-48f4-89d7-84348fe457a5" [label="Dmitry 18.1"]
+"2b5c6c86-3417-4dc5-97d4-287a62257e89" [label="Yury"]
+"9918b9ac-a2f5-4324-965e-72df08cf5abe" -> "2b5c6c86-3417-4dc5-97d4-287a62257e89"
+"57b3ba24-2399-48f4-89d7-84348fe457a5" -> "2b5c6c86-3417-4dc5-97d4-287a62257e89"
+
+"463df8a9-88d5-4ed0-8350-a28e01b989ab" [label="Alina 18.2"]
+"18ebca3c-32bf-4640-b2d3-3d8275d248ce" [label="Anton 36.3"]
+"58e02889-5910-4173-a1bb-b8f0e1e875f9" [label="Veronika"]
+"463df8a9-88d5-4ed0-8350-a28e01b989ab" -> "58e02889-5910-4173-a1bb-b8f0e1e875f9"
+"18ebca3c-32bf-4640-b2d3-3d8275d248ce" -> "58e02889-5910-4173-a1bb-b8f0e1e875f9"
+
+"cc706029-de5b-4b0e-b8bd-78cc9b7b2ef4" [label="Anastasia 18.2"]
+"1145da05-68aa-4d8b-9474-6d4593feeaac" [label="Semyon 33.9"]
+"7fb79bed-7d68-4906-b83e-a8a08ec407e5" [label="Elena"]
+"cc706029-de5b-4b0e-b8bd-78cc9b7b2ef4" -> "7fb79bed-7d68-4906-b83e-a8a08ec407e5"
+"1145da05-68aa-4d8b-9474-6d4593feeaac" -> "7fb79bed-7d68-4906-b83e-a8a08ec407e5"
+
+"6cb025b8-4fea-4529-b38e-af7276580aca" [label="Zoya 18.2"]
+"65e1be72-8dae-4d5a-9cdc-7abb3ed8526e" [label="Timur 55.1"]
+"51f36afc-e10d-4992-b1b1-0bd4cc832695" [label="Veronika"]
+"6cb025b8-4fea-4529-b38e-af7276580aca" -> "51f36afc-e10d-4992-b1b1-0bd4cc832695"
+"65e1be72-8dae-4d5a-9cdc-7abb3ed8526e" -> "51f36afc-e10d-4992-b1b1-0bd4cc832695"
+
+"9918b9ac-a2f5-4324-965e-72df08cf5abe" [label="Elizaveta 37.3"]
+"c4de4581-b36f-485b-82b2-558dcefefe30" [label="Yevgeny 18.5"]
+"584b488e-0115-4c46-ad80-4bbccd3955bf" [label="Mikhail"]
+"9918b9ac-a2f5-4324-965e-72df08cf5abe" -> "584b488e-0115-4c46-ad80-4bbccd3955bf"
+"c4de4581-b36f-485b-82b2-558dcefefe30" -> "584b488e-0115-4c46-ad80-4bbccd3955bf"
+
+"cc706029-de5b-4b0e-b8bd-78cc9b7b2ef4" [label="Anastasia 19.2"]
+"1145da05-68aa-4d8b-9474-6d4593feeaac" [label="Semyon 34.9"]
+"f962a73a-4535-45cc-8576-baef706ee38f" [label="Egor"]
+"cc706029-de5b-4b0e-b8bd-78cc9b7b2ef4" -> "f962a73a-4535-45cc-8576-baef706ee38f"
+"1145da05-68aa-4d8b-9474-6d4593feeaac" -> "f962a73a-4535-45cc-8576-baef706ee38f"
+
+"6cb025b8-4fea-4529-b38e-af7276580aca" [label="Zoya 19.2"]
+"65e1be72-8dae-4d5a-9cdc-7abb3ed8526e" [label="Timur 56.1"]
+"b505bd76-30be-4cb8-bac9-c80359b8bd6c" [label="Boris"]
+"6cb025b8-4fea-4529-b38e-af7276580aca" -> "b505bd76-30be-4cb8-bac9-c80359b8bd6c"
+"65e1be72-8dae-4d5a-9cdc-7abb3ed8526e" -> "b505bd76-30be-4cb8-bac9-c80359b8bd6c"
+
+"0998317d-1735-45f2-b37e-02ab7ac292fb" [label="Kristina 18.2"]
+"8a780787-335c-45e6-b703-ed75948dd5dc" [label="Nikita 37.2"]
+"debd8086-83f3-4cfa-bc4f-fa557db77398" [label="Olga"]
+"0998317d-1735-45f2-b37e-02ab7ac292fb" -> "debd8086-83f3-4cfa-bc4f-fa557db77398"
+"8a780787-335c-45e6-b703-ed75948dd5dc" -> "debd8086-83f3-4cfa-bc4f-fa557db77398"
+
+"58e02889-5910-4173-a1bb-b8f0e1e875f9" [label="Veronika 18.2"]
+"6521652d-b8d8-4eef-9320-12c088561244" [label="Nikolay 54.3"]
+"c428d80d-2588-4408-a53d-f82f9c6dff7f" [label="Varvara"]
+"58e02889-5910-4173-a1bb-b8f0e1e875f9" -> "c428d80d-2588-4408-a53d-f82f9c6dff7f"
+"6521652d-b8d8-4eef-9320-12c088561244" -> "c428d80d-2588-4408-a53d-f82f9c6dff7f"
+
+"2b3d5e5b-afbf-4a9f-ae6a-ce493fca7d6c" [label="Sofya 34.7"]
+"c6526328-be18-4fd0-905d-5f4c09624db0" [label="Anton 36.4"]
+"e374eb54-8d08-40fe-ba53-29189b9f01a3" [label="Svetlana"]
+"2b3d5e5b-afbf-4a9f-ae6a-ce493fca7d6c" -> "e374eb54-8d08-40fe-ba53-29189b9f01a3"
+"c6526328-be18-4fd0-905d-5f4c09624db0" -> "e374eb54-8d08-40fe-ba53-29189b9f01a3"
+
+"58e02889-5910-4173-a1bb-b8f0e1e875f9" [label="Veronika 19.2"]
+"6521652d-b8d8-4eef-9320-12c088561244" [label="Nikolay 55.3"]
+"e95d4469-3c31-4adb-9be6-20d1cb382d69" [label="Nikolay"]
+"58e02889-5910-4173-a1bb-b8f0e1e875f9" -> "e95d4469-3c31-4adb-9be6-20d1cb382d69"
+"6521652d-b8d8-4eef-9320-12c088561244" -> "e95d4469-3c31-4adb-9be6-20d1cb382d69"
+
+"2b3d5e5b-afbf-4a9f-ae6a-ce493fca7d6c" [label="Sofya 35.7"]
+"c6526328-be18-4fd0-905d-5f4c09624db0" [label="Anton 37.4"]
+"ded40193-432d-4206-a96c-9b867642e792" [label="Evgenia"]
+"2b3d5e5b-afbf-4a9f-ae6a-ce493fca7d6c" -> "ded40193-432d-4206-a96c-9b867642e792"
+"c6526328-be18-4fd0-905d-5f4c09624db0" -> "ded40193-432d-4206-a96c-9b867642e792"
+
+"51f36afc-e10d-4992-b1b1-0bd4cc832695" [label="Veronika 23.0"]
+"f962a73a-4535-45cc-8576-baef706ee38f" [label="Egor 21.9"]
+"7561d92c-e2c3-4ed5-aa63-725442302fd5" [label="Anna"]
+"51f36afc-e10d-4992-b1b1-0bd4cc832695" -> "7561d92c-e2c3-4ed5-aa63-725442302fd5"
+"f962a73a-4535-45cc-8576-baef706ee38f" -> "7561d92c-e2c3-4ed5-aa63-725442302fd5"
+
+"51f36afc-e10d-4992-b1b1-0bd4cc832695" [label="Veronika 24.0"]
+"f962a73a-4535-45cc-8576-baef706ee38f" [label="Egor 22.9"]
+"f2b6a8ef-256b-4c9c-891d-27c7afd52420" [label="Larisa"]
+"51f36afc-e10d-4992-b1b1-0bd4cc832695" -> "f2b6a8ef-256b-4c9c-891d-27c7afd52420"
+"f962a73a-4535-45cc-8576-baef706ee38f" -> "f2b6a8ef-256b-4c9c-891d-27c7afd52420"
+
+"c428d80d-2588-4408-a53d-f82f9c6dff7f" [label="Varvara 18.2"]
+"ae00b715-c801-4e5a-9181-2c38a0d3dc09" [label="Leonid 52.5"]
+"4a0a2438-f3c4-4981-9d90-dea55fd2afc4" [label="Denis"]
+"c428d80d-2588-4408-a53d-f82f9c6dff7f" -> "4a0a2438-f3c4-4981-9d90-dea55fd2afc4"
+"ae00b715-c801-4e5a-9181-2c38a0d3dc09" -> "4a0a2438-f3c4-4981-9d90-dea55fd2afc4"
+
+"c428d80d-2588-4408-a53d-f82f9c6dff7f" [label="Varvara 19.2"]
+"ae00b715-c801-4e5a-9181-2c38a0d3dc09" [label="Leonid 53.5"]
+"ddc7173e-d194-44a1-9c73-dd30e620e056" [label="Tatyana"]
+"c428d80d-2588-4408-a53d-f82f9c6dff7f" -> "ddc7173e-d194-44a1-9c73-dd30e620e056"
+"ae00b715-c801-4e5a-9181-2c38a0d3dc09" -> "ddc7173e-d194-44a1-9c73-dd30e620e056"
+
+"c428d80d-2588-4408-a53d-f82f9c6dff7f" [label="Varvara 20.2"]
+"ae00b715-c801-4e5a-9181-2c38a0d3dc09" [label="Leonid 54.5"]
+"0a1a9717-ae8f-4242-99dd-181144ccd10a" [label="Elizaveta"]
+"c428d80d-2588-4408-a53d-f82f9c6dff7f" -> "0a1a9717-ae8f-4242-99dd-181144ccd10a"
+"ae00b715-c801-4e5a-9181-2c38a0d3dc09" -> "0a1a9717-ae8f-4242-99dd-181144ccd10a"
+
+"e374eb54-8d08-40fe-ba53-29189b9f01a3" [label="Svetlana 30.6"]
+"f962a73a-4535-45cc-8576-baef706ee38f" [label="Egor 47.8"]
+"8da842ae-02b4-4013-bf60-372ed308684f" [label="Vera"]
+"e374eb54-8d08-40fe-ba53-29189b9f01a3" -> "8da842ae-02b4-4013-bf60-372ed308684f"
+"f962a73a-4535-45cc-8576-baef706ee38f" -> "8da842ae-02b4-4013-bf60-372ed308684f"
+}

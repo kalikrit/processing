@@ -1,0 +1,19 @@
+digraph {
+"41c1df60" [label="Dina 18.2"]
+"2db439e3" [label="Timur 18.2"]
+"0cd726e3" [label="Leonid"]
+"41c1df60" -> "0cd726e3"
+"2db439e3" -> "0cd726e3"
+
+"41c1df60" [label="Dina 19.2"]
+"2db439e3" [label="Timur 19.2"]
+"c0feffcd" [label="Timofey"]
+"41c1df60" -> "c0feffcd"
+"2db439e3" -> "c0feffcd"
+
+"41c1df60" [label="Dina 20.2"]
+"2db439e3" [label="Timur 20.2"]
+"32a7b877" [label="Nikolay"]
+"41c1df60" -> "32a7b877"
+"2db439e3" -> "32a7b877"
+}
