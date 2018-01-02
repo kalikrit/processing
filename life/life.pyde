@@ -14,6 +14,16 @@ authors: Konstantin Kononenko (Moscow, Russia), Reshetina Natalya (Moscow, Russi
 date: 18.10.2017
 version: 2.2.3
 
+use:
+- при запуске генерятся случайно 30 "человек"
+(по умолчанию. Можно генирить n количество пар мальчик-девочка) 
+- s - пауза
+- c - продолжить
+- i - сгенирить новых 30 чел
+после того как все "умрут", создается файл "текущая дата время.gv"
+при клике на него файл открывается в программе анализа графов Graphviz
+из него можно сохранить получившийся граф в формате png
+
 24.10.2017
 - добавлены мужские и женские имена
 - переделан поиск мужчины
@@ -141,13 +151,17 @@ class Human(object):
             deadN += 1
             
         # рождение
+        # пол ребенка случаен
+        # фамилия ребенка - фамилия отца
+        # цвет ребенка - цвет отца
+        # отчество ребенка - имя отца
         if self.sex == 1 and self.pair and self.preg > 0 and self.age < 60 and (self.age - self.age_give_birth) >= 1:
             self.preg -= 1
             self.age_give_birth = self.age
             sex = int(random(2))
             fname = self.pair.name + 'ovich' if sex == 0 else self.pair.name + 'ovna'
             sname = self.pair.sname if sex == 0 else self.pair.sname + 'a'
-            human = Human(sex, random(self.x-self.d,self.x+self.d), random(self.y-self.d, self.y+self.d), (random(255),random(255),random(255)), sname, fname)
+            human = Human(sex, random(self.x-self.d,self.x+self.d), random(self.y-self.d, self.y+self.d), (self.pair.r,self.pair.g,self.pair.b), sname, fname)
             # регистрация родственых связей
             human.relatives.extend((self.uid,self.pair.uid)) # добавляем маму и папу
             # у мамы и папы берем по 6 первых родственников
@@ -201,6 +215,11 @@ class Human(object):
             # делаем пару - записываем себе uid партнера
             self.pair = other
             other.pair = self
+            # мужик красит свою женщину в свой цвет
+            if self.sex == 1:
+                self.r,self.g,self.b = other.r,other.g,other.b
+            else:
+                other.r,other.g,other.b = self.r,self.g,self.b   
             #print('couple: %s | %s'%(self.uid, other.uid))
 
                                         
@@ -219,30 +238,33 @@ class Human(object):
                 if h.sex == 1 and h.age < 58 and len(set(self.relatives).intersection(set(h.relatives))) == 0:
                     l = dist(self.x,self.y,h.x,h.y)
                     wd[l] = h
-            if len(wd) > 0:         
+            if len(wd) > 0: 
+                p = self.d*0.04        
                 dst = wd[min(wd.keys())]        
                 if dst.x > self.x:
-                    self.x += self.d*0.04
+                    self.x += p
                 else:
-                    self.x -= self.d*0.04
+                    self.x -= p
                 if dst.y > self.y:
-                    self.y += self.d*0.04
+                    self.y += p
                 else:
-                    self.y -= self.d*0.04        
+                    self.y -= p        
                                             
-        else:                                                        
+        else: # не одинокий мужик, женщина, мальчик до 18, мужик после 58                                                        
             to = int(random(4))
+            r = self.d/2
+            k = self.d*0.07
             # up
-            if to == 0 and self.y - self.d/2 > 0: 
-                self.y -= self.d*0.07
+            if to == 0 and (self.y - r) > 0: 
+                self.y -= k
             # right    
-            elif to == 1 and self.x + self.d/2 < width:
-                self.x += self.d*0.07
+            elif to == 1 and (self.x + r) < width:
+                self.x += k
             # down    
-            elif to == 2 and self.y + self.d/2 < height:
-                self.y += self.d*0.07
+            elif to == 2 and (self.y + r) < height:
+                self.y += k
             # left    
-            elif to == 3 and self.x - self.d/2 > 0:
-                self.x -= self.d*0.07
+            elif to == 3 and (self.x - r) > 0:
+                self.x -= k
 
         
